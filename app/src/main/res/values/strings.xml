@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Brohi Clipping</string>
+    <string name="brand_title">BROHI CLIPPING</string>
+    <string name="brand_tagline">3D AI Viral Shorts Studio</string>
+    <string name="onboarding_skip">Skip</string>
+    <string name="onboarding_next">Next</string>
+    <string name="onboarding_start">Enter Studio</string>
+    <string name="home_url_hint">Paste YouTube, Twitch, or MP4 URL</string>
+    <string name="privacy_ai_notice">Audio excerpts and stream metadata are sent securely via Firebase AI Logic to Gemini only when you start AI scanning or narration.</string>
+</resources>

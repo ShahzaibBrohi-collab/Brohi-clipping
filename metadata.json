@@ -1,0 +1,6 @@
+{
+  "name": "Brohi Clipping",
+  "description": "AI-powered 3D vertical video clipping, viral moment detection, narration, karaoke captions, and mobile video studio for Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
